@@ -1,0 +1,19 @@
+Catatan:
+
+
+
+http://localhost:10000/oauth/authorize?client_id=aplikasiweb&response_type=code&redirect_uri=http://example.com
+
+
+https://gadai-auth.herokuapp.com/oauth/authorize?client_id=aplikasiweb&response_type=code&redirect_uri=http://example.com
+
+
+code
+grant_type authorization_code
+redirect_uri http://example.com
+
+
+aplikasiweb
+aplikasi123
+
+https://gadai-auth.herokuapp.com/oauth/token
